@@ -5,6 +5,6 @@
 -----------
 ![generate url iamge](https://github.com/naveensony07/URL-Shortner/assets/116912198/bef247b7-304c-44f3-ba2f-271eb3b0cc98)
 
-## 👨‍💻 Author <a name="author"></a>
-## 👤 **Naveen Sony**
+## 👨‍💻 Uche <a name="author"></a>
+## 👤 **Uchenna Frank**
 
